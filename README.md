@@ -5,7 +5,7 @@ An Exploratory Data Analysis with accompanying Dashboard
 
 This is a Project that I undertook to solidify my SQL skills and to get more familiar with Tableau as a platform. As someone with a healthcare background, I wanted to explore how exactly the Vaccine affected the outbreak of Covid around the world. From a time where Hospitals were in crisis with a lack of ventilators to now having people interact face to face again, a lot has changed. Was the impetus the spread of vaccines across the world, or did the majority of the pandemic takes it courses and it was just the nail in the coffin? 
 
-This project also compares countries and their responses through 6 six "Key Indicators" as I have called them, which will feature throughout the Data Visualization. 
+This project also compares countries and their responses through 6 "Key Indicators" as I have called them, which will feature throughout the Data Visualization. 
 
 The Dataset was downloaded from [Our World in Data's COVID-19 Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer). The dataset exceeds the file size for upload to github, so I have attached the link to it.
 
