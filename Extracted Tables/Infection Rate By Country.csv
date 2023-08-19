@@ -1,0 +1,244 @@
+location,percent_infected
+Afghanistan,0.5456
+Albania,11.7541
+Algeria,0.6054
+American Samoa,18.8306
+Andorra,60.1368
+Angola,0.2961
+Anguilla,24.589
+Antigua and Barbuda,9.7108
+Argentina,22.0718
+Armenia,16.1589
+Aruba,41.5409
+Australia,44.1612
+Austria,68.0263
+Azerbaijan,8.0327
+Bahamas,9.289
+Bahrain,47.3167
+Bangladesh,1.1945
+Barbados,38.8797
+Belarus,10.4252
+Belgium,41.2053
+Belize,17.4647
+Benin,0.2098
+Bermuda,29.3737
+Bhutan,8.0121
+Bolivia,9.8692
+Bonaire Sint Eustatius and Saba,44.0707
+Bosnia and Herzegovina,12.4648
+Botswana,12.5535
+Brazil,17.5173
+British Virgin Islands,23.3148
+Brunei,69.0656
+Bulgaria,19.1541
+Burkina Faso,0.0973
+Burundi,0.4208
+Cambodia,0.8286
+Cameroon,0.4481
+Canada,12.2158
+Cape Verde,10.8215
+Cayman Islands,45.7961
+Central African Republic,0.2754
+Chad,0.0434
+Chile,26.9798
+China,6.9641
+Colombia,12.2952
+Comoros,1.0886
+Congo,0.422
+Cook Islands,42.3791
+Costa Rica,23.9128
+Cote d'Ivoire,0.3137
+Croatia,31.6131
+Cuba,9.9451
+Curacao,24.0008
+Cyprus,73.7555
+Czechia,44.2462
+Democratic Republic of Congo,0.0987
+Denmark,58.0528
+Djibouti,1.3998
+Dominica,21.6608
+Dominican Republic,5.9405
+Ecuador,5.9392
+Egypt,0.4649
+El Salvador,3.1845
+England,0
+Equatorial Guinea,1.0227
+Eritrea,0.2766
+Estonia,45.3784
+Eswatini,6.2314
+Ethiopia,0.406
+Faeroe Islands,65.2484
+Falkland Islands,50.5919
+Fiji,7.4263
+Finland,26.7724
+France,57.5074
+French Guiana,32.1902
+French Polynesia,25.6912
+Gabon,2.0507
+Gambia,0.4666
+Georgia,49.3634
+Germany,46.1051
+Ghana,0.5128
+Gibraltar,62.8883
+Greece,51.4996
+Greenland,21.1899
+Grenada,15.6968
+Guadeloupe,51.3528
+Guam,30.1462
+Guatemala,7.1232
+Guernsey,55.7817
+Guinea,0.2782
+Guinea-Bissau,0.4566
+Guyana,9.0741
+Haiti,0.2961
+Honduras,4.5488
+Hong Kong,0
+Hungary,22.1054
+Iceland,55.9969
+India,3.1751
+Indonesia,2.473
+Iran,8.5974
+Iraq,5.541
+Ireland,34.1435
+Isle of Man,44.9618
+Israel,51.1358
+Italy,43.9014
+Jamaica,5.5125
+Japan,27.2716
+Jersey,59.9218
+Jordan,15.4795
+Kazakhstan,7.7475
+Kenya,0.6366
+Kiribati,3.8724
+Kosovo,15.3706
+Kuwait,15.6018
+Kyrgyzstan,1.326
+Laos,2.9054
+Latvia,52.728
+Lebanon,22.5612
+Lesotho,1.4958
+Liberia,0.1526
+Libya,7.4463
+Liechtenstein,54.5623
+Lithuania,48.0741
+Luxembourg,59.1443
+Macao,0
+Madagascar,0.2306
+Malawi,0.4354
+Malaysia,15.0919
+Maldives,35.641
+Mali,0.1467
+Malta,22.3935
+Marshall Islands,38.7036
+Martinique,62.6793
+Mauritania,1.3452
+Mauritius,23.7652
+Mayotte,12.8873
+Mexico,5.9868
+Micronesia (country),23.1849
+Moldova,18.9688
+Monaco,46.2333
+Mongolia,29.7482
+Montenegro,40.0479
+Montserrat,31.7924
+Morocco,3.4046
+Mozambique,0.708
+Myanmar,1.1833
+Namibia,6.7003
+Nauru,42.4947
+Nepal,3.2847
+Netherlands,49.0586
+New Caledonia,27.6122
+New Zealand,45.5964
+Nicaragua,0.23
+Niger,0.0363
+Nigeria,0.122
+Niue,42.2643
+North Korea,0
+North Macedonia,16.6399
+Northern Cyprus,0
+Northern Ireland,0
+Northern Mariana Islands,28.4343
+Norway,27.3536
+Oman,8.7286
+Pakistan,0.6703
+Palau,34.1517
+Palestine,13.3946
+Panama,23.7564
+Papua New Guinea,0.4621
+Paraguay,10.8507
+Peru,13.266
+Philippines,3.6117
+Pitcairn,8.5106
+Poland,16.3541
+Portugal,54.5013
+Puerto Rico,38.5164
+Qatar,19.0909
+Reunion,50.7765
+Romania,17.3455
+Russia,15.8798
+Rwanda,0.9668
+Saint Barthelemy,50.091
+Saint Helena,40.1037
+Saint Kitts and Nevis,13.8567
+Saint Lucia,16.7074
+Saint Martin (French part),38.7352
+Saint Pierre and Miquelon,58.2158
+Saint Vincent and the Grenadines,9.2642
+Samoa,7.5431
+San Marino,72.3716
+Sao Tome and Principe,2.8976
+Saudi Arabia,2.3112
+Scotland,0
+Senegal,0.514
+Serbia,37.0361
+Seychelles,47.5447
+Sierra Leone,0.0902
+Singapore,44.9695
+Sint Maarten (Dutch part),25.0068
+Slovakia,33.08
+Slovenia,63.4317
+Solomon Islands,2.9838
+Somalia,0.1553
+South Africa,6.7996
+South Korea,64.7572
+South Sudan,0.1683
+Spain,29.396
+Sri Lanka,3.0806
+Sudan,0.1365
+Suriname,13.3628
+Sweden,25.7148
+Switzerland,50.4295
+Syria,0.2595
+Taiwan,0
+Tajikistan,0.1787
+Tanzania,0.0658
+Thailand,6.6327
+Timor,1.7491
+Togo,0.4465
+Tokelau,4.2261
+Tonga,15.7383
+Trinidad and Tobago,12.5076
+Tunisia,9.3343
+Turkey,19.9255
+Turkmenistan,0
+Turks and Caicos Islands,14.4994
+Tuvalu,25.9638
+Uganda,0.3635
+Ukraine,13.8996
+United Arab Emirates,11.3019
+United Kingdom,36.5239
+United States,30.5764
+United States Virgin Islands,25.522
+Uruguay,30.3487
+Uzbekistan,0.4959
+Vanuatu,3.6784
+Vatican,3.2178
+Venezuela,1.9529
+Vietnam,11.8366
+Wales,0
+Wallis and Futuna,30.614
+Western Sahara,0
+Yemen,0.0354
+Zambia,1.7449
+Zimbabwe,1.628
