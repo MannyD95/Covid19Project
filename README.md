@@ -7,7 +7,7 @@ This is a Project that I undertook to solidify my SQL skills and to get more fam
 
 This project also compares countries and their responses through 6 "Key Indicators" as I have called them, which will feature throughout the Data Visualization. 
 
-The Dataset was downloaded from [Our World in Data's COVID-19 Data Explorer](https://ourworldindata.org/explorers/coronavirus-data-explorer). The dataset exceeds the file size for upload to github, so I have attached the link to it.
+The Dataset was downloaded from [Our World in Data's COVID-19 Dataset](https://github.com/owid/covid-19-data/tree/master/public/data) on August 10th. The dataset exceeds the file size for upload to github, so I have attached the link to it from the OWID git page.
 
 The First problem I encountered was which version of SQL to use, after a lengthy trial and error process, I settled on MySQL 8.0. MySQL had its quirks that I had to learn about such as casting to integers and the ONLY_FULL_GROUP_BY error which I came to love. Overall, once I got more familiar with it, I enjoyed the troubleshooting process.
 
